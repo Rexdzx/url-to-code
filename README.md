@@ -35,7 +35,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 2. Set the Website URL
 
    ```bash
-   Masukkan URL : your-url
+   Masukkan URL : https://exmaple.com
    ```
 
 3. Customize other options if needed (e.g., `maxDepth`, `directory`, etc.).
