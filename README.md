@@ -54,6 +54,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ## Acknowledgments
 
+- [Bahrul-Rozak](https://github.com/Bahrul-Rozak) for making an amazing project
 - [website-scraper](https://www.npmjs.com/package/website-scraper) for providing an easy-to-use web scraping library.
 
 Happy Scrapping! 🕸️
