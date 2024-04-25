@@ -35,7 +35,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 2. Set the Website URL
 
    ```bash
-   Masukkan URL : https://exmaple.com
+   Masukkan URL : https://example.com
    ```
 
 3. Customize other options if needed (e.g., `maxDepth`, `directory`, etc.).
